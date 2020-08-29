@@ -11,7 +11,9 @@ https://file-metadata-microservice.jordyf15.repl.co/
 
 ## Example Usage
 ### Example File Upload
-example_pic.jpg
+example_pic.jpg  
+<img src="https://i.pinimg.com/originals/10/af/c0/10afc094b2296da05445f0cb9163a8fe.jpg" alt="example-pic" width="200"/>  
+This is the example jpg that was uploaded
 ### Example Output
 ```
 {
